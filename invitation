@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[Your Name]'s Birthday Invitation</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #fef3c7;
+      color: #333;
+      padding: 20px;
+    }
+    h1 {
+      color: #e76f51;
+    }
+    .details {
+      margin: 20px 0;
+    }
+    .rsvp {
+      background-color: #e76f51;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .rsvp:hover {
+      background-color: #d1495b;
+    }
+  </style>
+</head>
+<body>
+  <h1>You're Invited to [Your Name]'s Birthday Bash! 🎉</h1>
+  <p class="details">
+    📅 <strong>Date:</strong> Saturday, [Month Day, Year] <br>
+    🕒 <strong>Time:</strong> [Start Time] – [End Time] <br>
+    📍 <strong>Location:</strong> [Venue Address]
+  </p>
+  <p>Join us for a day of fun, laughter, and cake! 🎂</p>
+  <a href="https://forms.google.com/[your-rsvp-form-link]" class="rsvp">RSVP Here</a>
+</body>
+</html>
